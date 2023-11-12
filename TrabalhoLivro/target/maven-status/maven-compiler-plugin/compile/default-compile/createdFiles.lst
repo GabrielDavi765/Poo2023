@@ -1,0 +1,6 @@
+trabalholivro\TrabalhoLivro.class
+trabalholivro\DAO\ConnectionDao.class
+trabalholivro\DAO\BookDao.class
+trabalholivro\DAO\lDao.class
+trabalholivro\Book.class
+trabalholivro\DAO\Dao.class
